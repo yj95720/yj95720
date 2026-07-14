@@ -1,1 +1,1 @@
-[portfolio](./Yeji)
+[portfolio](Yeji Seo_Portfolio_en.pdf)
